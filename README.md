@@ -1,4 +1,4 @@
-# 🚨 Layoff Data Analysis Project 📊
+# 🚨 Employee-Layoff-Analytics 📊
 
 ## Project Overview 📋
 This project involves cleaning, analyzing, and processing corporate layoff data. The objective is to identify trends, patterns, and insights related to workforce reductions across various industries and companies. The project also includes de-duplication, data normalization, and transforming raw data into a more structured and useful format for analysis.
